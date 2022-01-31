@@ -12,3 +12,11 @@
 .screen-header__icons span {
   margin-left: 25px;
 }
+.screen-header__icons span:last-child {
+  position: relative;
+}
+.screen-header__dot {
+  position: absolute;
+  bottom: 20px;
+  left: 25px;
+}
